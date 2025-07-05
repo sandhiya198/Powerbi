@@ -1,4 +1,4 @@
-PROJECT TITLE:  SALES DASHBOARD
+PROJECT TITLE:  SALES DASHBOARD powerbi.png
 
 PROJECT GOAL
     * Show total and monthly sales performance.
