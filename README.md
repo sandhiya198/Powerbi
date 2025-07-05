@@ -1,5 +1,4 @@
-PROJECT TITLE:  SALES DASHBOARD https://github.com/sandhiya198/Powerbi/blob/main/power%20SANDHIYA%20(2)%20(1).pbix
-
+PROJECT TITLE:  SALES DASHBOARD https://github.com/sandhiya198/Powerbi/blob/main/powerbi.png
 PROJECT GOAL
     * Show total and monthly sales performance.
     * Highlight top-selling products.
